@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me yuktaabande@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My secret weapon for building intelligent algorithms? Extra strong coffee!
 
 
 <!---
