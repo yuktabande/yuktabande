@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @yuktabande
-- 👀 I’m interested in the world of AI
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Data Science projects 
-- 📫 How to reach me yuktaabande@gmail.com
-- 😄 Pronouns: she/her
+# About Me
 
+👋 Hi, I'm Yukta, a CS undergrad passionate about coding, problem-solving, and continuous learning. I work primarily with Python, building AI models.
 
-<!---
-yuktabande/yuktabande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack
+
+- **Languages:** Python, c, c++, HTML, CSS, JavaScript
+- **Frameworks:** BeautifulSoup,Scikit-learn
+- **Tools:** Git, Windows, Linux
+- **Databases:** MySQL
+
+## 🌱 Currently
+
+- Exploring AI, DS & ML
+
+## 📫 Connect with Me
+
+- **Email:** yuktaabande@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yukta-bande/)
+
+Thanks for visiting! 😄
