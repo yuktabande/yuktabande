@@ -4,7 +4,7 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, c, c++, HTML, CSS, JavaScript
+- **Languages:** Python, c, c++, HTML, CSS, JavaScript, R
 - **Frameworks:** BeautifulSoup,Scikit-learn
 - **Tools:** Git, Windows, Linux
 - **Databases:** MySQL
