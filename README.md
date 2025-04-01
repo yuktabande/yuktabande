@@ -1,21 +1,44 @@
-# About Me
+# 👋 Hey there, I'm Yukta Bande!
 
-👋 Hi, I'm Yukta, a CS undergrad passionate about coding, problem-solving, and continuous learning. I work primarily with Python, building AI models.
+I'm a **Computer Science undergrad** with a passion for **AI, problem-solving, and innovative tech**. I love diving deep into **machine learning, neuroinformatics, and human-computer interaction**. 
 
-## 🔧 Tech Stack
+---
 
-- **Languages:** Python, c, c++, HTML, CSS, JavaScript, R
-- **Frameworks:** BeautifulSoup,Scikit-learn
-- **Tools:** Git, Windows, Linux
-- **Databases:** MySQL
+## 🛠️ Tech Stack
 
-## 🌱 Currently
+### 💻 Languages I Speak (Code & Otherwise)
 
-- Exploring AI, DS & ML
+- **Python** (my go-to), C, C++, HTML, CSS, JavaScript, R
 
-## 📫 Connect with Me
+### 🚀 Frameworks & Libraries I Love
 
-- **Email:** yuktaabande@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yukta-bande/)
+- BeautifulSoup, Scikit-learn , OpenCV 
 
-Thanks for visiting! 😄
+### 🛠️ Tools & Platforms
+
+- Git , Windows, Linux&#x20;
+
+### 🗄️ Databases
+
+- MySQL 
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+- **AI & Machine Learning**&#x20;
+- **Neuroinformatics & BCI** (brain-powered computing is the future!)
+- **Human-Computer Interaction**&#x20;
+- **Computer Vision for Fashion Tech** (imagine AI as your personal stylist!)
+
+---
+
+## 📫 Let’s Connect!
+
+- **📧 Email:** [yuktaabande@gmail.com](mailto\:yuktaabande@gmail.com)
+- **🔗 LinkedIn:** [Yukta Bande](https://www.linkedin.com/in/yukta-bande/)
+
+---
+
+🚀 Thanks for stopping by—let’s build something amazing together! 😃
+
