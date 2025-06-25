@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Yukta Bande!
 
-I'm a **Computer Science undergrad** with a passion for **AI, problem-solving, and innovative tech**. I love diving deep into **machine learning, neuroinformatics, and human-computer interaction**. 
+Iam a **Computer Science undergrad** with a passion for **AI, problem-solving, and innovative tech**. I love diving deep into **machine learning, neuroinformatics, and human-computer interaction**. 
 
 ---
 
