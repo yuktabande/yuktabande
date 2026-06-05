@@ -36,7 +36,7 @@
 class Yukta:
     name       = "Yukta Bande"
     role       = "Data Scientist & AI Developer"
-    languages  = ["Python", "SQL", "Java", "R", "JavaScript"]
+    languages  = ["Python", "SQL", "R", "Java", "JavaScript"]
     interests  = ["Machine Learning", "Deep Learning", "Data Viz", "Painting 🎨"]
     currently  = "Building something cool with AI 🤖"
     fun_fact   = "I paint with brushes AND with data ✨"
@@ -89,6 +89,15 @@ class Yukta:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/YuktaBande?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/YuktaBande/)
 
+### 🥇 LeetCode Badges
+
+<img src="./assets/202508.gif" height="140" title="LeetCode Badge Aug 2025" />
+<img src="./assets/25100.gif" height="140" title="LeetCode 100 Days Badge 2025" />
+<img src="./assets/2550.gif" height="140" title="LeetCode 50 Days Badge 2025" />
+<img src="./assets/Introduction_to_Pandas.gif" height="140" title="Kaggle — Introduction to Pandas" />
+
+> 💡 *Solved problems 100+ days in 2025 — consistency is a superpower.*
+
 </div>
 
 ---
@@ -137,7 +146,7 @@ class Yukta:
 
 ```
 ╔══════════════════════════════════════════╗
-║   "Data is the new paintbrush." 🎨📊     ║
+║        "Built from curiosity."           ║
 ╚══════════════════════════════════════════╝
 ```
 
