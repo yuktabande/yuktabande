@@ -85,11 +85,7 @@ class Yukta:
 
 <div align="center">
 
-## 🏆 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/YuktaBande?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/YuktaBande/)
-
-### 🥇 LeetCode Badges
+## 🥇 LeetCode Badges
 
 <img src="./assets/202508.gif" height="140" title="LeetCode Badge Aug 2025" />
 <img src="./assets/25100.gif" height="140" title="LeetCode 100 Days Badge 2025" />
